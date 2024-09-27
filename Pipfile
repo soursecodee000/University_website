@@ -10,6 +10,7 @@ gunicorn = "*"
 dj-database-url = "*"
 mysqlclient = "*"
 markdown = "*"
+pillow = "*"
 
 [dev-packages]
 
