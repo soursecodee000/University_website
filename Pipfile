@@ -7,6 +7,7 @@ name = "pypi"
 django-bootstrap4 = "*"
 django-extra-views = "*"
 gunicorn = "*"
+dj-database-url = "*"
 
 [dev-packages]
 
