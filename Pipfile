@@ -11,6 +11,7 @@ dj-database-url = "*"
 mysqlclient = "*"
 markdown = "*"
 pillow = "*"
+django-braces = "*"
 
 [dev-packages]
 
