@@ -9,6 +9,7 @@ django-extra-views = "*"
 gunicorn = "*"
 dj-database-url = "*"
 mysqlclient = "*"
+markdown = "*"
 
 [dev-packages]
 
