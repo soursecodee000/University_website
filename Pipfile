@@ -13,6 +13,7 @@ markdown = "*"
 pillow = "*"
 django-braces = "*"
 argon2-cffi = "*"
+bcrypt = "*"
 
 [dev-packages]
 
